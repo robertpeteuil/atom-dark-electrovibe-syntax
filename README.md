@@ -7,7 +7,3 @@ A variant of the Atom One Dark Syntax theme that works great with the matching [
 #### A screenshot of the theme while editing a php file
 ![atom-dark-electrovibe-syntax](https://gitlab.com/robertpeteuil/atom-dark-electrovibe-syntax/uploads/0c59f565151c23e250c00ca7583dd866/Dark_Electrovibe_Syntax_-_php.png)
 
-
-### Install
-
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
