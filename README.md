@@ -5,5 +5,4 @@ A variant of the Atom One Dark Syntax theme that works great with the matching [
 <!--![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)-->
 
 #### A screenshot of the theme while editing a php file
-![Dark_Electrovibe_Syntax_-_php](/uploads/784fee8a51e6921506796fda4d8121cb/Dark_Electrovibe_Syntax_-_php.png)
-
+![dark electrovibe syntax - php](https://cloud.githubusercontent.com/assets/1554603/23766560/92f4d5a2-04c2-11e7-9c00-8f95235e96f4.png)
