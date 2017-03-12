@@ -8,7 +8,7 @@
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/azrobbo/atom-dark-electrovibe-syntax",
+  "repository": "https://github.com/robertpeteuil/atom-dark-electrovibe-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
